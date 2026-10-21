@@ -1,0 +1,9 @@
+tensorflow>=2.15
+tensorflow-hub>=0.16
+numpy
+scipy
+soundfile
+scikit-learn
+matplotlib
+pandas
+gradio>=4

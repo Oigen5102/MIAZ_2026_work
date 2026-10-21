@@ -1,0 +1,13 @@
+{
+ "classes": [
+  "engine",
+  "siren",
+  "rain"
+ ],
+ "classes_ua": {
+  "engine": "двигун автомобіля",
+  "siren": "сирена",
+  "rain": "дощ"
+ },
+ "backend": "tflite"
+}
