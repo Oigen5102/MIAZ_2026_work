@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "Theme_4/PR_4.13/src"
+    ]
+}
